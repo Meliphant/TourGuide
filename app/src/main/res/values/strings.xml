@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="places_name">
+        <item>Red Square</item>
+        <item>Bolshoi Theatre</item>
+        <item>Tretyakov Gallery</item>
+        <item>Alexander Garden</item>
+    </string-array>
+    <string-array name="places_pic">
+        <item>https://cdn.quizzclub.com/trivia/2016-12/why-is-red-square-in-moscow-called-red-square_1-original.jpg</item>
+        <item>http://www.vladtime.ru/uploads/posts/2017-03/1489244030_56f8ec75-614b-af80-614b-afc99d83dfc2.photo.0.jpg</item>
+        <item>http://www.artrussia.ru/media/news/76886e694e470f82d1a7f51a7b53ea4970592.jpg</item>
+        <item><![CDATA[http://hotelturist-biznes.com/sites/business/files/styles/964x518/public/111111111111111111111111111111111111111111111111111115.jpg?itok=z3rteqT8&timestamp=1463732839]]></item>
+    </string-array>
+
+    <string-array name="events_name">
+        <item>Theatre Night</item>
+        <item>Golden Mask Performance</item>
+        <item>Quests at Planetarium</item>
+        <item>Cheese Festival</item>
+    </string-array>
+    <string-array name="events_pic">
+        <item>https://www.mos.ru/upload/newsfeed/newsfeed/nochmuzeevSAMARIN(27).jpg</item>
+        <item>https://www.mos.ru/upload/newsfeed/newsfeed/2Ip0Grs1mCbp(27).jpg</item>
+        <item>https://www.mos.ru/upload/newsfeed/events/mk_planetarij(27).jpg</item>
+        <item>https://www.mos.ru/upload/newsfeed/newsfeed/SAMAR2pC1vu0PNED8(27).jpg</item>
+    </string-array>
+
+    <string-array name="food_name">
+        <item>Varvara Cafe</item>
+        <item>Cafe Pushkin</item>
+        <item>Expedition</item>
+        <item>Lepim i Varim</item>
+    </string-array>
+    <string-array name="food_pic">
+        <item>https://img03.rl0.ru/afisha/o/rests.afisha.ru/uploads/images/4/64/464d6debcdcd4163b60a669efe697251.jpg</item>
+        <item>https://d1nz104zbf64va.cloudfront.net/dt/a/o/cafe-pushkin-where-espresso-tastes-like-history.jpg</item>
+        <item>https://images.myguide-cdn.com/moscow/companies/expedition/large/expedition-125305.jpg</item>
+        <item>https://themoscowtimes.com/static/uploads/publications/2017/6/21/dbce5765158d4a6c96514c209ad37c23.jpg</item>
+    </string-array>
+
+    <string-array name="drinks_name">
+        <item>Beerodrom</item>
+        <item>Beerness Pub</item>
+        <item>Brugge</item>
+        <item>Stereo People</item>
+    </string-array>
+    <string-array name="drinks_pic">
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/0f/a2/7d/7e/caption.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-o/0f/b0/27/04/loft.jpg</item>
+        <item>http://www.tripinsiders.net/wp-content/uploads/2016/08/beertje.jpg</item>
+        <item>https://media-cdn.tripadvisor.com/media/photo-s/0f/46/f9/d0/40-50.jpg</item>
+    </string-array>
+
+    <string-array name="tab_type">
+        <item>Places</item>
+        <item>Events</item>
+        <item>Food</item>
+        <item>Drinks</item>
+    </string-array>
+</resources>

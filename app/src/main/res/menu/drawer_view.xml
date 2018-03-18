@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_wiki"
+            android:title="About City" />
+        <item
+            android:id="@+id/navigation_flights"
+            android:title="Flights" />
+        <item
+            android:id="@+id/navigation_trains"
+            android:title="Trains" />
+        <item
+            android:id="@+id/navigation_living"
+            android:title="Hotels" />
+    </group>
+</menu>
