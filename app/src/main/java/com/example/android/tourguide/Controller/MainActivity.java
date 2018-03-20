@@ -1,4 +1,4 @@
-package com.example.android.tourguide.View;
+package com.example.android.tourguide.Controller;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -14,7 +14,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.example.android.tourguide.Controller.FragmentAdapter;
 import com.example.android.tourguide.R;
 
 public class MainActivity extends AppCompatActivity {

@@ -6,7 +6,6 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 import com.example.android.tourguide.R;
-import com.example.android.tourguide.View.PageFragment;
 
 /**
  * Created by Meliphant on 18.03.2018.

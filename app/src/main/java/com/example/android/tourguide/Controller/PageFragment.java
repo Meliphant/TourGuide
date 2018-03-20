@@ -1,4 +1,4 @@
-package com.example.android.tourguide.View;
+package com.example.android.tourguide.Controller;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -8,9 +8,8 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import com.example.android.tourguide.Controller.CardsRecyclerAdapter;
+
 import com.example.android.tourguide.Model.Card;
-import com.example.android.tourguide.Controller.PlacesData;
 import com.example.android.tourguide.R;
 import java.util.List;
 
